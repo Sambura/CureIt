@@ -13,7 +13,7 @@ and complete minigames to advance your understanding of the drug you made!
 **Unlocking drug properties:**
 ![image](Screenshots/TestCompleteScreen.jpg "Unlocking drug properties")
 
-You can check out the demo video of the gameplay [here](https://youtu.be/t7-betGLNuk).
+You can check out the demo video of the gameplay [here](https://youtu.be/t7-betGLNuk)!
 
 ## Engine
 
