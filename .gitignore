@@ -12,3 +12,17 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+
+# Built data for maps
+*_BuiltData.uasset
+
+# Builds
+Build/*
+
+# Whitelist PakBlacklist-<BuildConfiguration>.txt files
+!Build/*/
+Build/*/**
+!Build/*/PakBlacklist*.txt
+
+# Don't ignore icon files in Build
+!Build/**/*.ico
