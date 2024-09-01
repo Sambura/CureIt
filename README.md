@@ -1,6 +1,6 @@
 # CureIt
 
-A casual puzzle game developed in 72 hours during a GameJam. In the game you take control of a disease research lab. Your goal is to
+A casual puzzle game initially made during a 72 hour GameJam. In the game you take control of a disease research lab. Your goal is to
 develop drugs against different dangerous bacteria and viruses. Combine right components to create the most effective cure for the task
 and complete minigames to advance your understanding of the drug you made!
 
@@ -13,7 +13,7 @@ and complete minigames to advance your understanding of the drug you made!
 **Unlocking drug properties:**
 ![image](Screenshots/TestCompleteScreen.jpg "Unlocking drug properties")
 
-You can check out the demo video of the gameplay [here](https://youtu.be/t7-betGLNuk)!
+You can check out the demo video of the gameplay [here](https://youtu.be/qyD-GGHIEf8)!
 
 ## Engine
 
